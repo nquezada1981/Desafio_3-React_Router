@@ -4,10 +4,10 @@ import { NavLink } from "react-router-dom"
 
 
 const NavBar = () => {
-    const setActiveClass = ({ isActive }) => (isActive ? "active" : undefined);
+
     return (
 
-        <nav className="p-4">
+        <nav className="p-3">
             <div>
                 <img className="pokebola" src="/src/assets/img/pokeball.svg" alt="Imagen de Pokebola" />
             </div>

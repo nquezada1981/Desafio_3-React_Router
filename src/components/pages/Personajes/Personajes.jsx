@@ -37,7 +37,7 @@ const Personajes = () => {
     return (
 
         <>
-            <div className="container text-center">
+            <div className="container text-center mt-5 mb-3">
                 <h1>Selecciona un Pokemon!</h1>
 
                 <div className="boxSelect">
