@@ -1,0 +1,10 @@
+.pikachu {
+    width: 500px;
+    text-align: right;
+}
+
+.container img {
+    justify-content: center;
+    align-items: center;
+
+}

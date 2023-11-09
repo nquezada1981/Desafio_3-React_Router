@@ -1,0 +1,17 @@
+body {
+  font-family: 'Pokemon Solid', sans-serif;
+
+}
+
+nav {
+  background-color: red;
+}
+
+select {
+  width: auto;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-right: 2rem;
+  border-radius: 1em;
+  border-color: red;
+}

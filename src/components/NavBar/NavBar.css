@@ -1,0 +1,36 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 10%;
+}
+
+.link-nav {
+    color: white;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin-right: 30xp;
+}
+
+.active {
+    color: rgb(252, 249, 249);
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1em;
+}
